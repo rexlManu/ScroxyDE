@@ -1,0 +1,5 @@
+main: de.rexlmanu.bewerbung.Bewerbung
+name: Bewerbung
+version: 0
+commands:
+  coins:
