@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bewerbung/Bewerbung.iml" filepath="$PROJECT_DIR$/Bewerbung/Bewerbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatabasePlugin/DatabasePlugin.iml" filepath="$PROJECT_DIR$/DatabasePlugin/DatabasePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScroxyChatLog/ScroxyChatLog.iml" filepath="$PROJECT_DIR$/ScroxyChatLog/ScroxyChatLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScroxyDE.iml" filepath="$PROJECT_DIR$/ScroxyDE.iml" />
+    </modules>
+  </component>
+</project>
